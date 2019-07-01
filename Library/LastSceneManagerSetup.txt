@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/scene/elephant.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scene/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/scene/LevelSelect.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scene/teapot.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scene/42.unity
+  isLoaded: 0
+  isActive: 0
